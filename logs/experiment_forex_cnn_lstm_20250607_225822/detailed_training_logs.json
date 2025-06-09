@@ -1,0 +1,627 @@
+[
+  {
+    "timestamp": "2025-06-07T23:28:31.655502",
+    "epoch": 1,
+    "training_metrics": {
+      "loss": 0.5710140466690063,
+      "accuracy": 0.6386981010437012,
+      "val_loss": 0.5158732533454895,
+      "val_accuracy": 0.6480082273483276,
+      "lr": "0.001"
+    },
+    "system_stats": {
+      "cpu_usage_percent": 67.5,
+      "memory_usage_percent": 81.6,
+      "memory_available_gb": 3.31182861328125,
+      "memory_used_gb": 7.18328857421875,
+      "gpu_info": {
+        "gpu_count": 1,
+        "gpu_names": [
+          "/physical_device:GPU:0"
+        ],
+        "memory_current_mb": 0.0,
+        "memory_peak_mb": 0.0
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-07T23:58:10.549980",
+    "epoch": 2,
+    "training_metrics": {
+      "loss": 0.5323822498321533,
+      "accuracy": 0.6439098715782166,
+      "val_loss": 0.5185626149177551,
+      "val_accuracy": 0.6436530947685242,
+      "lr": "0.001"
+    },
+    "system_stats": {
+      "cpu_usage_percent": 68.2,
+      "memory_usage_percent": 79.5,
+      "memory_available_gb": 3.692901611328125,
+      "memory_used_gb": 6.9738922119140625,
+      "gpu_info": {
+        "gpu_count": 1,
+        "gpu_names": [
+          "/physical_device:GPU:0"
+        ],
+        "memory_current_mb": 0.0,
+        "memory_peak_mb": 0.0
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-08T00:27:27.636977",
+    "epoch": 3,
+    "training_metrics": {
+      "loss": 0.5238533020019531,
+      "accuracy": 0.6456663012504578,
+      "val_loss": 0.5118430256843567,
+      "val_accuracy": 0.646524965763092,
+      "lr": "0.001"
+    },
+    "system_stats": {
+      "cpu_usage_percent": 66.4,
+      "memory_usage_percent": 82.1,
+      "memory_available_gb": 3.2204742431640625,
+      "memory_used_gb": 6.9005889892578125,
+      "gpu_info": {
+        "gpu_count": 1,
+        "gpu_names": [
+          "/physical_device:GPU:0"
+        ],
+        "memory_current_mb": 0.0,
+        "memory_peak_mb": 0.0
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-08T00:56:47.079533",
+    "epoch": 4,
+    "training_metrics": {
+      "loss": 0.520930290222168,
+      "accuracy": 0.6452844738960266,
+      "val_loss": 0.5134745240211487,
+      "val_accuracy": 0.6461803317070007,
+      "lr": "0.001"
+    },
+    "system_stats": {
+      "cpu_usage_percent": 65.3,
+      "memory_usage_percent": 76.8,
+      "memory_available_gb": 4.1705780029296875,
+      "memory_used_gb": 6.6620635986328125,
+      "gpu_info": {
+        "gpu_count": 1,
+        "gpu_names": [
+          "/physical_device:GPU:0"
+        ],
+        "memory_current_mb": 0.0,
+        "memory_peak_mb": 0.0
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-08T01:25:57.369051",
+    "epoch": 5,
+    "training_metrics": {
+      "loss": 0.5185078382492065,
+      "accuracy": 0.6466590166091919,
+      "val_loss": 0.5052714943885803,
+      "val_accuracy": 0.6535324454307556,
+      "lr": "0.001"
+    },
+    "system_stats": {
+      "cpu_usage_percent": 63.8,
+      "memory_usage_percent": 78.0,
+      "memory_available_gb": 3.9557342529296875,
+      "memory_used_gb": 6.8636627197265625,
+      "gpu_info": {
+        "gpu_count": 1,
+        "gpu_names": [
+          "/physical_device:GPU:0"
+        ],
+        "memory_current_mb": 0.0,
+        "memory_peak_mb": 0.0
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-08T01:55:18.558701",
+    "epoch": 6,
+    "training_metrics": {
+      "loss": 0.5158653855323792,
+      "accuracy": 0.6510118246078491,
+      "val_loss": 0.505732536315918,
+      "val_accuracy": 0.6536473035812378,
+      "lr": "0.001"
+    },
+    "system_stats": {
+      "cpu_usage_percent": 67.4,
+      "memory_usage_percent": 78.7,
+      "memory_available_gb": 3.8418731689453125,
+      "memory_used_gb": 6.58099365234375,
+      "gpu_info": {
+        "gpu_count": 1,
+        "gpu_names": [
+          "/physical_device:GPU:0"
+        ],
+        "memory_current_mb": 0.0,
+        "memory_peak_mb": 0.0
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-08T02:24:37.457720",
+    "epoch": 7,
+    "training_metrics": {
+      "loss": 0.515248715877533,
+      "accuracy": 0.6543719172477722,
+      "val_loss": 0.509967565536499,
+      "val_accuracy": 0.6520390510559082,
+      "lr": "0.001"
+    },
+    "system_stats": {
+      "cpu_usage_percent": 68.3,
+      "memory_usage_percent": 77.7,
+      "memory_available_gb": 4.0104217529296875,
+      "memory_used_gb": 6.7422943115234375,
+      "gpu_info": {
+        "gpu_count": 1,
+        "gpu_names": [
+          "/physical_device:GPU:0"
+        ],
+        "memory_current_mb": 0.0,
+        "memory_peak_mb": 0.0
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-08T02:53:53.689730",
+    "epoch": 8,
+    "training_metrics": {
+      "loss": 0.5143609642982483,
+      "accuracy": 0.6515845656394958,
+      "val_loss": 0.5146263241767883,
+      "val_accuracy": 0.6430786848068237,
+      "lr": "0.001"
+    },
+    "system_stats": {
+      "cpu_usage_percent": 65.9,
+      "memory_usage_percent": 77.3,
+      "memory_available_gb": 4.08197021484375,
+      "memory_used_gb": 6.7178802490234375,
+      "gpu_info": {
+        "gpu_count": 1,
+        "gpu_names": [
+          "/physical_device:GPU:0"
+        ],
+        "memory_current_mb": 0.0,
+        "memory_peak_mb": 0.0
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-08T03:22:54.194667",
+    "epoch": 9,
+    "training_metrics": {
+      "loss": 0.5136775970458984,
+      "accuracy": 0.6555173993110657,
+      "val_loss": 0.5046245455741882,
+      "val_accuracy": 0.6598506569862366,
+      "lr": "0.001"
+    },
+    "system_stats": {
+      "cpu_usage_percent": 59.3,
+      "memory_usage_percent": 77.5,
+      "memory_available_gb": 4.0444488525390625,
+      "memory_used_gb": 6.971832275390625,
+      "gpu_info": {
+        "gpu_count": 1,
+        "gpu_names": [
+          "/physical_device:GPU:0"
+        ],
+        "memory_current_mb": 0.0,
+        "memory_peak_mb": 0.0
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-08T03:51:58.209336",
+    "epoch": 10,
+    "training_metrics": {
+      "loss": 0.5118563175201416,
+      "accuracy": 0.658877432346344,
+      "val_loss": 0.5041729807853699,
+      "val_accuracy": 0.658242404460907,
+      "lr": "0.001"
+    },
+    "system_stats": {
+      "cpu_usage_percent": 60.0,
+      "memory_usage_percent": 78.5,
+      "memory_available_gb": 3.874298095703125,
+      "memory_used_gb": 6.846221923828125,
+      "gpu_info": {
+        "gpu_count": 1,
+        "gpu_names": [
+          "/physical_device:GPU:0"
+        ],
+        "memory_current_mb": 0.0,
+        "memory_peak_mb": 0.0
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-08T04:21:19.176371",
+    "epoch": 11,
+    "training_metrics": {
+      "loss": 0.5120893716812134,
+      "accuracy": 0.658839225769043,
+      "val_loss": 0.5071540474891663,
+      "val_accuracy": 0.6612291932106018,
+      "lr": "0.001"
+    },
+    "system_stats": {
+      "cpu_usage_percent": 68.6,
+      "memory_usage_percent": 76.8,
+      "memory_available_gb": 4.183013916015625,
+      "memory_used_gb": 6.7635498046875,
+      "gpu_info": {
+        "gpu_count": 1,
+        "gpu_names": [
+          "/physical_device:GPU:0"
+        ],
+        "memory_current_mb": 0.0,
+        "memory_peak_mb": 0.0
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-08T04:50:43.092966",
+    "epoch": 12,
+    "training_metrics": {
+      "loss": 0.5080603957176208,
+      "accuracy": 0.6670485138893127,
+      "val_loss": 0.5053706169128418,
+      "val_accuracy": 0.6557151079177856,
+      "lr": "0.001"
+    },
+    "system_stats": {
+      "cpu_usage_percent": 69.4,
+      "memory_usage_percent": 77.1,
+      "memory_available_gb": 4.129913330078125,
+      "memory_used_gb": 6.7154541015625,
+      "gpu_info": {
+        "gpu_count": 1,
+        "gpu_names": [
+          "/physical_device:GPU:0"
+        ],
+        "memory_current_mb": 0.0,
+        "memory_peak_mb": 0.0
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-08T05:19:50.740168",
+    "epoch": 13,
+    "training_metrics": {
+      "loss": 0.5086956024169922,
+      "accuracy": 0.6645284295082092,
+      "val_loss": 0.5092911720275879,
+      "val_accuracy": 0.6503158807754517,
+      "lr": "0.001"
+    },
+    "system_stats": {
+      "cpu_usage_percent": 61.8,
+      "memory_usage_percent": 76.9,
+      "memory_available_gb": 4.163787841796875,
+      "memory_used_gb": 6.819854736328125,
+      "gpu_info": {
+        "gpu_count": 1,
+        "gpu_names": [
+          "/physical_device:GPU:0"
+        ],
+        "memory_current_mb": 0.0,
+        "memory_peak_mb": 0.0
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-08T05:48:56.375450",
+    "epoch": 14,
+    "training_metrics": {
+      "loss": 0.506137490272522,
+      "accuracy": 0.6693776249885559,
+      "val_loss": 0.5128081440925598,
+      "val_accuracy": 0.6459506154060364,
+      "lr": "0.001"
+    },
+    "system_stats": {
+      "cpu_usage_percent": 60.0,
+      "memory_usage_percent": 77.5,
+      "memory_available_gb": 4.04718017578125,
+      "memory_used_gb": 6.6827850341796875,
+      "gpu_info": {
+        "gpu_count": 1,
+        "gpu_names": [
+          "/physical_device:GPU:0"
+        ],
+        "memory_current_mb": 0.0,
+        "memory_peak_mb": 0.0
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-08T06:18:11.775478",
+    "epoch": 15,
+    "training_metrics": {
+      "loss": 0.5045968294143677,
+      "accuracy": 0.6715922355651855,
+      "val_loss": 0.5061137676239014,
+      "val_accuracy": 0.6514647006988525,
+      "lr": "0.001"
+    },
+    "system_stats": {
+      "cpu_usage_percent": 66.9,
+      "memory_usage_percent": 78.0,
+      "memory_available_gb": 3.9604034423828125,
+      "memory_used_gb": 6.7353668212890625,
+      "gpu_info": {
+        "gpu_count": 1,
+        "gpu_names": [
+          "/physical_device:GPU:0"
+        ],
+        "memory_current_mb": 0.0,
+        "memory_peak_mb": 0.0
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-08T06:47:31.850797",
+    "epoch": 16,
+    "training_metrics": {
+      "loss": 0.5034590363502502,
+      "accuracy": 0.6768231987953186,
+      "val_loss": 0.5073099136352539,
+      "val_accuracy": 0.6474440097808838,
+      "lr": "0.001"
+    },
+    "system_stats": {
+      "cpu_usage_percent": 69.3,
+      "memory_usage_percent": 77.4,
+      "memory_available_gb": 4.06561279296875,
+      "memory_used_gb": 6.7733306884765625,
+      "gpu_info": {
+        "gpu_count": 1,
+        "gpu_names": [
+          "/physical_device:GPU:0"
+        ],
+        "memory_current_mb": 0.0,
+        "memory_peak_mb": 0.0
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-08T07:16:54.276302",
+    "epoch": 17,
+    "training_metrics": {
+      "loss": 0.5012257099151611,
+      "accuracy": 0.6781595945358276,
+      "val_loss": 0.5101379752159119,
+      "val_accuracy": 0.6551406979560852,
+      "lr": "0.001"
+    },
+    "system_stats": {
+      "cpu_usage_percent": 69.3,
+      "memory_usage_percent": 78.1,
+      "memory_available_gb": 3.94464111328125,
+      "memory_used_gb": 6.7578125,
+      "gpu_info": {
+        "gpu_count": 1,
+        "gpu_names": [
+          "/physical_device:GPU:0"
+        ],
+        "memory_current_mb": 0.0,
+        "memory_peak_mb": 0.0
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-08T07:46:14.964581",
+    "epoch": 18,
+    "training_metrics": {
+      "loss": 0.4975455105304718,
+      "accuracy": 0.6794577836990356,
+      "val_loss": 0.5131153464317322,
+      "val_accuracy": 0.6512349247932434,
+      "lr": "0.001"
+    },
+    "system_stats": {
+      "cpu_usage_percent": 69.6,
+      "memory_usage_percent": 78.1,
+      "memory_available_gb": 3.94451904296875,
+      "memory_used_gb": 6.6621246337890625,
+      "gpu_info": {
+        "gpu_count": 1,
+        "gpu_names": [
+          "/physical_device:GPU:0"
+        ],
+        "memory_current_mb": 0.0,
+        "memory_peak_mb": 0.0
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-08T08:15:27.775023",
+    "epoch": 19,
+    "training_metrics": {
+      "loss": 0.4937121868133545,
+      "accuracy": 0.6930125951766968,
+      "val_loss": 0.5204497575759888,
+      "val_accuracy": 0.6480183601379395,
+      "lr": "0.0005"
+    },
+    "system_stats": {
+      "cpu_usage_percent": 67.0,
+      "memory_usage_percent": 77.5,
+      "memory_available_gb": 4.0583648681640625,
+      "memory_used_gb": 6.5646209716796875,
+      "gpu_info": {
+        "gpu_count": 1,
+        "gpu_names": [
+          "/physical_device:GPU:0"
+        ],
+        "memory_current_mb": 0.0,
+        "memory_peak_mb": 0.0
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-08T08:44:59.834150",
+    "epoch": 20,
+    "training_metrics": {
+      "loss": 0.48846346139907837,
+      "accuracy": 0.7006872892379761,
+      "val_loss": 0.5241090059280396,
+      "val_accuracy": 0.6468695998191833,
+      "lr": "0.0005"
+    },
+    "system_stats": {
+      "cpu_usage_percent": 66.6,
+      "memory_usage_percent": 76.3,
+      "memory_available_gb": 4.2740631103515625,
+      "memory_used_gb": 6.905120849609375,
+      "gpu_info": {
+        "gpu_count": 1,
+        "gpu_names": [
+          "/physical_device:GPU:0"
+        ],
+        "memory_current_mb": 0.0,
+        "memory_peak_mb": 0.0
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-08T09:14:40.439619",
+    "epoch": 21,
+    "training_metrics": {
+      "loss": 0.4836680293083191,
+      "accuracy": 0.7081328630447388,
+      "val_loss": 0.5260050296783447,
+      "val_accuracy": 0.6422745585441589,
+      "lr": "0.0005"
+    },
+    "system_stats": {
+      "cpu_usage_percent": 68.6,
+      "memory_usage_percent": 77.3,
+      "memory_available_gb": 4.08544921875,
+      "memory_used_gb": 6.802001953125,
+      "gpu_info": {
+        "gpu_count": 1,
+        "gpu_names": [
+          "/physical_device:GPU:0"
+        ],
+        "memory_current_mb": 0.0,
+        "memory_peak_mb": 0.0
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-08T09:44:25.237663",
+    "epoch": 22,
+    "training_metrics": {
+      "loss": 0.48183324933052063,
+      "accuracy": 0.7145093679428101,
+      "val_loss": 0.5267701745033264,
+      "val_accuracy": 0.6510051488876343,
+      "lr": "0.0005"
+    },
+    "system_stats": {
+      "cpu_usage_percent": 66.3,
+      "memory_usage_percent": 65.5,
+      "memory_available_gb": 6.206634521484375,
+      "memory_used_gb": 8.11712646484375,
+      "gpu_info": {
+        "gpu_count": 1,
+        "gpu_names": [
+          "/physical_device:GPU:0"
+        ],
+        "memory_current_mb": 0.0,
+        "memory_peak_mb": 0.0
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-08T10:14:00.622368",
+    "epoch": 23,
+    "training_metrics": {
+      "loss": 0.47578299045562744,
+      "accuracy": 0.7184039950370789,
+      "val_loss": 0.5273412466049194,
+      "val_accuracy": 0.6512349247932434,
+      "lr": "0.0005"
+    },
+    "system_stats": {
+      "cpu_usage_percent": 63.9,
+      "memory_usage_percent": 65.4,
+      "memory_available_gb": 6.235198974609375,
+      "memory_used_gb": 8.51885986328125,
+      "gpu_info": {
+        "gpu_count": 1,
+        "gpu_names": [
+          "/physical_device:GPU:0"
+        ],
+        "memory_current_mb": 0.0,
+        "memory_peak_mb": 0.0
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-08T10:43:40.805227",
+    "epoch": 24,
+    "training_metrics": {
+      "loss": 0.4729459881782532,
+      "accuracy": 0.7254295349121094,
+      "val_loss": 0.5445092916488647,
+      "val_accuracy": 0.6433084607124329,
+      "lr": "0.0005"
+    },
+    "system_stats": {
+      "cpu_usage_percent": 65.6,
+      "memory_usage_percent": 67.0,
+      "memory_available_gb": 5.944549560546875,
+      "memory_used_gb": 8.46075439453125,
+      "gpu_info": {
+        "gpu_count": 1,
+        "gpu_names": [
+          "/physical_device:GPU:0"
+        ],
+        "memory_current_mb": 0.0,
+        "memory_peak_mb": 0.0
+      }
+    }
+  },
+  {
+    "timestamp": "2025-06-08T11:13:17.809138",
+    "epoch": 25,
+    "training_metrics": {
+      "loss": 0.46995383501052856,
+      "accuracy": 0.7277587056159973,
+      "val_loss": 0.5384377837181091,
+      "val_accuracy": 0.6445720791816711,
+      "lr": "0.0005"
+    },
+    "system_stats": {
+      "cpu_usage_percent": 63.6,
+      "memory_usage_percent": 67.0,
+      "memory_available_gb": 5.931793212890625,
+      "memory_used_gb": 8.532546997070312,
+      "gpu_info": {
+        "gpu_count": 1,
+        "gpu_names": [
+          "/physical_device:GPU:0"
+        ],
+        "memory_current_mb": 0.0,
+        "memory_peak_mb": 0.0
+      }
+    }
+  }
+]

@@ -1,0 +1,1 @@
+{"timestamp": "2025-06-07T22:55:36.268249", "system_memory": {"total_gb": 18.0, "available_gb": 3.9212188720703125, "used_gb": 7.758636474609375, "percentage": 78.2}, "process_memory": {"rss_gb": 1.0739593505859375, "vms_gb": 394.7887725830078}, "gpu_memory": {"current_mb": 0.0, "peak_mb": 0.0}}

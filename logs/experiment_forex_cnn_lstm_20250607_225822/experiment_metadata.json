@@ -1,0 +1,41 @@
+{
+  "experiment_info": {
+    "experiment_id": "forex_cnn_lstm_20250607_225822",
+    "start_time": "2025-06-07T22:58:25.205811",
+    "tensorflow_version": "2.15.0",
+    "python_version": "3.11.9 (main, Jun  2 2025, 07:20:13) [Clang 17.0.0 (clang-1700.0.13.5)]",
+    "numpy_version": "1.26.4",
+    "pandas_version": "2.2.3"
+  },
+  "system_info": {
+    "cpu_count": 12,
+    "total_memory_gb": 18.0,
+    "platform": "macOS-15.5-arm64-arm-64bit",
+    "gpu_available": true,
+    "gpu_count": 1
+  },
+  "training_config": {
+    "epochs": 100,
+    "batch_size": 32,
+    "learning_rate": 0.001,
+    "early_stopping_patience": 15,
+    "reduce_lr_patience": 8,
+    "reduce_lr_factor": 0.5
+  },
+  "data_config": {
+    "window_size": 60,
+    "prediction_horizon": 1,
+    "currency_pairs": [
+      "EURUSD",
+      "GBPUSD",
+      "USDJPY"
+    ],
+    "total_features": 15
+  },
+  "additional_info": {
+    "steps_per_epoch": 819,
+    "validation_steps": 273,
+    "total_training_samples": 26208,
+    "total_validation_samples": 8736
+  }
+}
